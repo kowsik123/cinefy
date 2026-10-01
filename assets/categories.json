@@ -1,0 +1,686 @@
+[
+    {
+        "title": "Marvel Origin Stories",
+        "list": [
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9504/1369504-t-da369ee3a5d9",
+                "title": "Eternals",
+                "id": "1260077949",
+                "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations",
+                "tags": [
+                    "2021",
+                    "U/A 13+",
+                    "2h 35m",
+                    "6 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://pbs.twimg.com/media/E9J7dDOUUAApLdM.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9829/1369829-t-afacefff7a92",
+                "title": "Iron Man",
+                "id": "1660000038",
+                "description": "After surviving an unexpected attack in enemy territory, jet-setting industrialist Tony Stark builds a high-tech suit of armor and vows to protect the world.",
+                "tags": [
+                    "2008",
+                    "U/A 13+",
+                    "2h 5m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/tY5Szn4uMA9FWJAqJiuTzEJtsQo.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/9169/809169-t",
+                "title": "Thor",
+                "id": "1660000044",
+                "description": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans on Earth, where he soon becomes one of their finest defenders.",
+                "tags": [
+                    "2011",
+                    "U/A 13+",
+                    "1h 54m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://wallpapercave.com/wp/wp4937134.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1175/1371175-t-00259386fecd",
+                "title": "Doctor Strange",
+                "id": "1260018179",
+                "description": "Dr. Strange faces a difficult choice of whether to return to his life of luxury or to protect the world as the most powerful sorcerer in existence.",
+                "tags": [
+                    "2016",
+                    "U/A 13+",
+                    "1h 54m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/k77cLIyJXHdIOTQnIhovLurd9bL.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7520/1417520-t-4197a648dfff",
+                "title": "Moon Knight",
+                "id": "1260089681",
+                "description": "Mild-mannered Steven Grant has dissociative identity disorder and shares a body with a mercenary.",
+                "tags": [
+                    "2022",
+                    "U/A 16+",
+                    "1 Season",
+                    "5 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://i.redd.it/3kpwj87rlrk81.png"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/635/1410635-t-847283699e19",
+                "title": "Black Panther",
+                "id": "1660010672",
+                "description": "T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past.",
+                "tags": [
+                    "2018",
+                    "U/A 13+",
+                    "2h 14m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://i.pinimg.com/736x/fe/8f/d0/fe8fd06176f2a0b344b83f2c5d508096.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/6803/1366803-t-83b9adb667f9",
+                "title": "Captain Marvel",
+                "id": "1260014878",
+                "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+                "tags": [
+                    "2019",
+                    "U/A 13+",
+                    "2h 4m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "bgimg": "https://preview.redd.it/textless-captain-marvel-poster-for-you-all-v0-x3zgnt2fm1221.jpg?width=1080&crop=smart&auto=webp&s=b1fc0aba36f9bf9d362b7da1336386c99af5bf45"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/3934/1413934-t-3b914995f51e",
+                "title": "Ms. Marvel",
+                "id": "1260098459",
+                "description": "Kamala Khan, a Muslim American teen growing up in Jersey City, is a Superhero mega fan who discovers she has super powers.",
+                "tags": [
+                    "2022",
+                    "U/A 13+",
+                    "1 Season",
+                    "5 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/zslmF3MFHMXAEXE0J2BnCxjPbs6.jpg"
+            }
+        ]
+    },
+    {
+        "title": "DC Movies",
+        "list": [
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7891/1774421287891-t",
+                "tags": [
+                    "2022",
+                    "U/A 16+",
+                    "2h 56m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "description": "More than a year of stalking the streets as the Batman, has led Bruce Wayne deep into the shadows of Gotham City.",
+                "id": "1271608356",
+                "bgimg": "https://image.tmdb.org/t/p/original/3TtnYjg01zsL01C3vIb2YWtxqEx.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2552/1776245822552-t",
+                "tags": [
+                    "2017",
+                    "U/A 13+",
+                    "1h 55m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Fueled by his restored faith in humanity, Bruce Wayne, along with Wonder Woman, set out in search of a special team to defend the planet from a threat.",
+                "id": "1971011083",
+                "bgimg": "https://cf.preview.redd.it/color-corrected-version-of-justice-league-poster-v0-6or6fmiita0f1.jpeg?auto=webp&s=f255166499d80d00af0fdf34a06c23c775f5aa5b"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7347/1776191547347-t",
+                "tags": [
+                    "2012",
+                    "U/A 13+",
+                    "2h 37m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Eight years after the Joker, Bane terrorizes Gotham. Batman is forced from exile, aided by Selina Kyle, to stop him.",
+                "id": "1971000392",
+                "bgimg": "https://img2.hulu.com/user/v3/artwork/2ce6365a-46e7-43d9-8d77-5b84753a663c?base_image_bucket_name=image_manager&base_image=019b8fb1-7315-7d09-872c-a88614fa78bc&size=458x687&format=webp"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2551/1776245162551-t",
+                "tags": [
+                    "2013",
+                    "U/A 13+",
+                    "2h 17m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Born with powers and not of this Earth, a young man sets out to find his past. However, to save the world, he must embrace his destiny as a symbol of hope.",
+                "id": "1971000604",
+                "bgimg": "https://external-preview.redd.it/an-awesome-hi-res-man-of-steel-image-that-was-uploaded-to-v0-YrO1FdVoLxbjGCBrAo-Mqj9-N8X6-chArZvCXxxpXfI.jpg?width=1080&crop=smart&auto=webp&s=505b9361cccb0ff03c7afd1037abb9b37108e19b"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2931/1776245772931-t",
+                "tags": [
+                    "2016",
+                    "U/A 13+",
+                    "2h 25m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+                "id": "1971000397",
+                "bgimg": "https://image.tmdb.org/t/p/original/xWKerAtDtb7GzrWOXYg5TVI4zak.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8341/1776246718341-t",
+                "tags": [
+                    "2018",
+                    "U/A 13+",
+                    "2h 23m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+                "id": "1971001981",
+                "bgimg": "https://i.pinimg.com/736x/12/11/31/12113163f2634886baf1815987ad1e84.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9330/1774421109330-t",
+                "tags": [
+                    "2023",
+                    "U/A 13+",
+                    "2h 10m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "description": "Continues the story of teenage Billy Batson who, upon reciting the magic word SHAZAM!, is transformed into his adult Super Hero alter ego, Shazam.",
+                "id": "1271608354",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlwZIXtiTpffTMbhMqgoTWIo9PkJgYHHXv0cbaX3zgNPWjMDqawlBZXs&s=10"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7672/1776264137672-t",
+                "tags": [
+                    "2019",
+                    "U/A 13+",
+                    "2h 6m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "Shazam! transforms teen Billy into a superhero. He confronts evil, mastering his new powers.",
+                "id": "1971000580",
+                "bgimg": "https://r1.ilikewallpaper.net/iphone-12-pro-wallpapers/download-146442/shazam-fury-of-the-gods.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2205/1776264032205-t",
+                "tags": [
+                    "2006",
+                    "U/A 13+",
+                    "2h 27m",
+                    "4 Languages",
+                    "Super Heroes"
+                ],
+                "description": "From the depths of the ocean to the far reaches of outer space, Superman blazes an epic journey to protect the world he loves from cataclysmic destruction.",
+                "id": "1971000526",
+                "bgimg": "https://media.themoviedb.org/t/p/w440_and_h660_face/k8skfgvaW6Pzqlp3sDJsFLHppFI.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7343/1774440007343-t",
+                "tags": [
+                    "2021",
+                    "U/A 16+",
+                    "4h 2m",
+                    "English",
+                    "Science Fiction"
+                ],
+                "description": "Zack Snyder's exclusive director's cut finds Batman, Wonder Woman, Aquaman, Cyborg and The Flash protecting the planet.",
+                "id": "1271613872",
+                "bgimg": "https://w0.peakpx.com/wallpaper/949/664/HD-wallpaper-justice-league-zack-snyder-thumbnail.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/178/1776193030178-t",
+                "tags": [
+                    "2005",
+                    "U/A 13+",
+                    "2h 14m",
+                    "2 Languages",
+                    "Super Heroes"
+                ],
+                "description": "With the help of rising cop Jim Gordon, Batman sets out to take down the various nefarious schemes in motion in Gotham City!",
+                "id": "1971000399",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTx9eauIUyEag3n3C0swywxA7EP3kBu6ECFsA86HbDXjaLNf8QZ1c0jwEs&s=10"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7505/1776264587505-t",
+                "tags": [
+                    "2017",
+                    "U/A 13+",
+                    "2h 15m",
+                    "English",
+                    "Science Fiction"
+                ],
+                "description": "A pilot's crash reveals a world at war. Young Amazon Diana, defying her training, embarks on a journey, discovering her powers and purpose.",
+                "id": "1971000396",
+                "bgimg": "https://static.wikia.nocookie.net/dccu/images/6/6f/JL_Wonder_Woman.jpg/revision/latest?cb=20160914003449"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2776/1776263582776-t",
+                "tags": [
+                    "2019",
+                    "A",
+                    "1h 56m",
+                    "English",
+                    "Thriller"
+                ],
+                "description": "Bullied and alone, Arthur Fleck becomes the Joker.",
+                "id": "1971000402",
+                "bgimg": "https://assets.vogue.in/photos/5d7224d50ce95e0008696c55/2:3/w_2560%2Cc_limit/Joker.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5873/1776263905873-t",
+                "tags": [
+                    "2020",
+                    "U/A 16+",
+                    "1h 44m",
+                    "2 Languages",
+                    "Comedy"
+                ],
+                "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
+                "id": "1971000529",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMC6wooeNy4vMAg-mp5Jq8mTmoq_z4w91Uq9IZAVrYQgR1o7RdtQf4EgkB&s=10"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4062/1776264094062-t",
+                "tags": [
+                    "2016",
+                    "U/A 16+",
+                    "1h 57m",
+                    "English",
+                    "Adventure"
+                ],
+                "description": "World-ending threat? A covert agency unleashes the most dangerous convictsÑsupervillainsÑto defend humanity. Their first mission: survival.",
+                "id": "1971000590",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-WmHxpx7mi6s_6yur_ko2htt1UbwiQZX9_ePr52uC4DXJUD5gozSX-k&s=10"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4452/1776264544452-t",
+                "tags": [
+                    "2020",
+                    "U/A 13+",
+                    "2h 24m",
+                    "English",
+                    "Adventure"
+                ],
+                "description": "Wonder Woman faces a double threat: the cunning Maxwell Lord and her former friend, Barbara Minerva. Can she conquer them both while reuniting with her love?",
+                "id": "1971000394",
+                "bgimg": "https://4kwallpapers.com/images/wallpapers/wonder-woman-1984-gal-gadot-dc-comics-2020-movies-5k-1242x2208-935.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Netflix Popular Shows",
+        "list": [
+            {
+                "tags": [
+                    "2025",
+                    "5 Seasons",
+                    "U/A 16+",
+                    "Sci-Fi"
+                ],
+                "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABWRb9fOoyNFcmxknSU10VpQNTr6iZp2M7sB5ahMjDFpCYvtZdytMefjW3aKWj-bz-pkK2mSnB8KL4G8xEKpEpEw5VfzSgrUELg.webp?r=347",
+                "id": "80057281",
+                "ott": "nf",
+                "bgimg": "https://image.tmdb.org/t/p/original/uAc35R8pBa7ykvDfgy1tQs76ETP.jpg"
+            },
+            {
+                "tags": [
+                    "2026",
+                    "2 Seasons",
+                    "U/A 16+",
+                    "Action"
+                ],
+                "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABV3CEs2r_UGJZJscNPmBD38aTViNCqvDjsedhftHTbrYfE4Gv9vqQBHJb452mdMIfiwUyk03tojw0Eb8LAapVP7oGcwGS7245w.webp?r=5c2",
+                "id": "80217863",
+                "ott": "nf",
+                "bgimg": "https://preview.redd.it/what-do-you-think-about-the-live-action-of-one-piece-v0-sczio14zsr1h1.jpeg?width=1080&crop=smart&auto=webp&s=8528c9857d2bdafaa5beb7943a7a969ceabac34f"
+            },
+            {
+                "tags": [
+                    "2025",
+                    "2 Seasons",
+                    "U/A 16+",
+                    "Fantasy"
+                ],
+                "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABXG5gmlIhSDh9F5SdDQdBne7h4_X54BQqzS_bAwMmlgTD9uZTKR9pEl7h7UkRvMhwJ0_HwqYNaKLXgBh2g5sxbWzIp3Tn597sA.webp?r=d59",
+                "id": "81231974",
+                "ott": "nf",
+                "bgimg": "https://media.themoviedb.org/t/p/original/1l57jDVD0Z8hhpZTDK89gdqbUnu.jpg"
+            },
+            {
+                "tags": [
+                    "2020",
+                    "3 Seasons",
+                    "A",
+                    "Thriller"
+                ],
+                "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUwU8NxVAYrz7-d1ZeLT_n0Az18QVjxPPx0b3JLfdt-Kola0JBanfg1BzLD0sNtqODcGfwkaK6AQE0gvgyinmsSFItw_vrgr7Q.webp?r=50f",
+                "id": "80100172",
+                "ott": "nf",
+                "bgimg": "https://wallpapercave.com/wp/wp8218829.jpg"
+            },
+            {
+                "tags": [
+                    "2026",
+                    "2 Seasons",
+                    "U/A 13+",
+                    "Fantasy"
+                ],
+                "description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+                "nameLogo": "https://occ-0-6499-3663.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUn60BBUq0UYCa8UAWmE3JnywFzScm1Xy2G3uyg6HvATf9pdaEqmeEqBu3QZGhSQ1HH2aKSk9I64FM5Ud5oFkWnkww2gWzzMsw.webp?r=7d7",
+                "id": "80237957",
+                "ott": "nf",
+                "bgimg": "https://image.tmdb.org/t/p/original/hwmqj87XXB8QknsKuwZZEGeyJes.jpg"
+            },
+            {
+                "tags": [
+                    "2013",
+                    "5 Seasons",
+                    "A",
+                    "Drama"
+                ],
+                "description": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABfIP17iwikS4Aofw367u8BNhkIy9IaQUqe-JQCMox5AJen7XGEv1aRkSl-hzrHyBTc_qoo4lfwK3SZI-oLG1zaubo9rPSai9N1I.webp?r=c0d",
+                "id": "70143836",
+                "ott": "nf",
+                "bgimg": "https://image.tmdb.org/t/p/original/nRLFup6SpwKRa1tSXwUHOi0Bfug.jpg"
+            },
+            {
+                "tags": [
+                    "2021",
+                    "5 Parts",
+                    "A",
+                    "Thriller"
+                ],
+                "description": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdxnSvgjtZjdWbQ-bq6SzybjYOWEXU3rJDZCjhbtRQhmI3z-6sgTvk-P9fcJXMayrvofvZDGiImiFkteSW5A1cGZa1cw4kEuxw.webp?r=768",
+                "id": "80192098",
+                "ott": "nf",
+                "bgimg": "https://4kwallpapers.com/images/wallpapers/money-heist-alvaro-768x1024-10611.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Dark Comedies",
+        "list": [
+            {
+                "tags": [
+                    "2019",
+                    "2 Seasons",
+                    "A",
+                    "Drama"
+                ],
+                "description": "A budding teen psychopath and a rebel hungry for adventure embark on a star-crossed road trip in this darkly comic series based on a graphic novel.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABTP-R4K43NgBNnMp0-MPCB9wePEJ2rfpPO-im5nfYU_PxKrGDrM9cEZjERIhKLeBE_aKzN7EtgLqb_BdCpqaPk2ZyTa_OzONXQ.webp?r=ec6",
+                "id": "80175722",
+                "ott": "nf",
+                "bgimg": "https://wallpaperaccess.com/full/2658039.png"
+            },
+            {
+                "tags": [
+                    "2020",
+                    "7 Episodes",
+                    "U/A 16+",
+                    "Comedy"
+                ],
+                "description": "Angsty Syd navigates high school awkwardness, family drama and an unrequited crush on her best friend while trying to rein in her budding superpowers.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABeFDbBldW1_rX8lLCYL8lFroV8vddjYu_UzH00lHBO1FmEcgqR5F-kq3AJI_EHEkvuLZpD-wrezFQ4gwlzaZTAXsJHfJzhdj8w.webp?r=1ca",
+                "id": "80244781",
+                "ott": "nf",
+                "bgimg": "https://image.tmdb.org/t/p/original/gx5m4Wg6rpuun8KdGC3x7Iya61t.jpg"
+            },
+            {
+                "tags": [
+                    "2022",
+                    "2 Seasons",
+                    "A",
+                    "Comedy"
+                ],
+                "description": "Nadia keeps dying and reliving her 36th birthday party. She's trapped in a surreal time loop — and staring down the barrel of her own mortality.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABSCd-puPPkxFQg_BFrFq1wsc-KrZtjSrYgvz611pz4tebAgxseJGBpsaCljgHI7nIuUoQKtDNpAWKvQFOadwp9EDqr6F3YTgVg.webp?r=d0d",
+                "id": "80211627",
+                "ott": "nf",
+                "bgimg": "https://media.themoviedb.org/t/p/original/o7g2d8UrEK6kyulWZHzXPu2du39.jpg"
+            },
+            {
+                "tags": [
+                    "2022",
+                    "3 Seasons",
+                    "A",
+                    "Comedy"
+                ],
+                "description": "A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABZAGkFcPELLEvLvrx0eRuGY4ChjNeepLFkN3S6tr-d4YwZerdQ0XGku6EWqEEa1Jsqhm3VpqZOj-gf_eCMgdOSh7J55VanlBEQ.webp?r=2f8",
+                "id": "80219707",
+                "ott": "nf",
+                "bgimg": "https://dt565gqrz3z7y.cloudfront.net/ce/image/1kAYIQY1HNBvuvdYCQlrSA.jpg"
+            },
+            {
+                "tags": [
+                    "2016",
+                    "U/A 16+",
+                    "Drama"
+                ],
+                "description": "A writer-turned-caregiver and an ornery teen with muscular dystrophy bond after they set off on a road trip in search of offbeat landmarks and adventure.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABSiQTGmGliCJpB-24aaJ5apWk7h33zhx7hYJAFUq-wpZog2-0HHQRLH5t4pDX3Hs2K_Tgc35Nq559H581x5PStGw8XJaiQB0DQ.webp?r=f10",
+                "id": "80097349",
+                "ott": "nf",
+                "bgimg": "https://media.themoviedb.org/t/p/w440_and_h660_face/hqr1uEyoReta9XjmstjPQ5Ccpxu.jpg"
+            },
+            {
+                "tags": [
+                    "2026",
+                    "2 Seasons",
+                    "A",
+                    "Drama"
+                ],
+                "description": "The Emmy-winning series returns with a brand-new story of two couples whose blackmail war upends a country club, starring Oscar Isaac and Carey Mulligan.",
+                "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABd1aetjOmD5feY8hU_7v3SFLFHv3ecnpGt_ZH2I-DioGOALDF84NyAZZS42mvYi5PN4e_LK42e3DCK2AfzwjGq8rbfJnhdFGDw.webp?r=25d",
+                "id": "81447461",
+                "ott": "nf",
+                "bgimg": "https://media.themoviedb.org/t/p/w440_and_h660_face/zplXLxbYn2FEua7EaZ8SCEpFlop.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1328/1371328-t-4aad29c1da04",
+                "title": "Deadpool",
+                "id": "1770003257",
+                "description": "Wade Wilson's life is changed forever when an experiment by twisted scientist Ajax goes wrong. With his new powers, Wade decides to make Ajax pay.",
+                "tags": [
+                    "2016",
+                    "A",
+                    "1h 48m",
+                    "English",
+                    "Action"
+                ],
+                "bgimg": "https://media.themoviedb.org/t/p/w440_and_h660_face/xu1lMNQr4rM0VQCWBkYXJmenj4U.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Pirates of the Caribbean",
+        "list": [
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4280/1374280-t-4195a0ffe804",
+                "title": "Pirates Of The Caribbean: The Curse Of The Black Pearl",
+                "id": "1660010115",
+                "description": "When Captain Barbossa kidnaps the Governer's daughter and her would-be suitor, Will Turner, coerces Captain Jack Sparrow into rescuing her.",
+                "tags": [
+                    "2003",
+                    "U/A 13+",
+                    "2h 23m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/31QoqnXhLBgue5ETHACIXxNR0uS.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7064/1417064-t-30b2ba47fc95",
+                "title": "Pirates Of The Caribbean: Dead Man's Chest",
+                "id": "1660000012",
+                "description": "Captain Jack Sparrow with Will and Elizabeth sets out to find the heart of Davy Jones and repay his debts.",
+                "tags": [
+                    "2006",
+                    "U/A 13+",
+                    "2h 30m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/zG90EYGavdVB3BlcEvzlI4aN1Ib.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1217/1541217-t-c8765a98cb05",
+                "title": "Pirates Of The Caribbean: At World's End",
+                "id": "1660000055",
+                "description": "Captain Barbossa and others must sail off the edge of the map, to find Jack Sparrow to fight against the East India Company.",
+                "tags": [
+                    "2007",
+                    "U/A 13+",
+                    "2h 48m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/9zb1BJoiS1KwPLlzqHmeQQlga0z.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/9094/809094-t",
+                "title": "Pirates Of The Caribbean: On Stranger Tides",
+                "id": "1260018338",
+                "description": "Captain Jack Sparrow journeys to the fabled Fountain of Youth when a woman from his past forces him to board the ship of his nemesis Blackbeard.",
+                "tags": [
+                    "2011",
+                    "U/A 13+",
+                    "2h 16m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/e5enGcJjwcYT4wBw4UPS7Ajl4zT.jpg"
+            },
+            {
+                "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/1138/1371138-t-b91786ea2bca",
+                "title": "Pirates of the Caribbean - Salazar's Revenge",
+                "id": "1260018339",
+                "description": "Captain Jack Sparrow senses the winds of ill-fortune when his nemesis Captain Salazar escapes from the Devil's Triangle, to kill every pirate at sea.",
+                "tags": [
+                    "2017",
+                    "U/A 13+",
+                    "2h 9m",
+                    "4 Languages",
+                    "Action"
+                ],
+                "bgimg": "https://image.tmdb.org/t/p/original/mZdWLMJ7XuMHblDEabP4aa7ZACS.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Popular Prime Video Series",
+        "list": [
+            {
+                "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/a40deb56c1f0b2e8d354f078c4c00f4ebcaa7f0eb4f488af01d02d25af034916._BR-6_AC_SX600_FMwebp_.png",
+                "title": "The Boys",
+                "description": "Butcher, Hughie, Annie and The Boys mount a desperate resistance against insurmountable odds to stop Homelander's tyrannical rule.",
+                "tags": [
+                    "2019",
+                    "5 Seasons",
+                    "A",
+                    "Action"
+                ],
+                "id": "0S1FYJ3LY9KTL9C7WFFAGA9F6F",
+                "ott": "pv",
+                "bgimg": "https://image.tmdb.org/t/p/original/fOqy5hVCkqpdbQIkEAmNqJU7MPJ.jpg"
+            },
+            {
+                "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/ce204cb98d7be3b049a535dcd855e9c8fc547ff0ce62d800af02cacba2ffc250._BR-6_AC_SX600_FMwebp_.png",
+                "title": "Fallout",
+                "description": "Based on one of the greatest video games of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have.",
+                "tags": [
+                    "2024",
+                    "2 Seasons",
+                    "A",
+                    "Action"
+                ],
+                "id": "0HAQAA7JM43QWX0H6GUD3IOF70",
+                "ott": "pv",
+                "bgimg": "https://media.themoviedb.org/t/p/original/kXbrjpJL3eWNsxf4LNrrpCWpXeY.jpg"
+            },
+            {
+                "nameLogo": "https://image.tmdb.org/t/p/original/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+                "title": "From",
+                "description": "FROM unravels the mystery of a nightmarish town that traps all those who enter.",
+                "tags": [
+                    "2022",
+                    "48min",
+                    "A",
+                    "Science Fiction"
+                ],
+                "id": "0NUSIUYWST5Y50I5UZSLNW196V",
+                "ott": "pv",
+                "bgimg": "https://image.tmdb.org/t/p/original/6CfT2iewTjN9X3GbHvxtetLsa49.jpg"
+            },
+            {
+                "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/e230fa1e2b85d368e90687fa567ee9633bfa90d1754ad8ad4be975dc7a1c5d5b._BR-6_AC_SX600_FMwebp_.png",
+                "title": "The Lord of the Rings: The Rings of Power",
+                "description": "Set thousands of years before, this epic drama follows an ensemble cast of characters, as they confront the long-feared re-emergence of evil.",
+                "tags": [
+                    "2024",
+                    "3 Seasons",
+                    "U/A 16+",
+                    "Action"
+                ],
+                "ott": "pv",
+                "bgimg": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
+            },
+            {
+                "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/34dcf97468563cb2d03824a83f526036a3f595d293843fde2345a87cb91310b4._BR-6_AC_SX600_FMwebp_.png",
+                "title": "Reacher",
+                "description": "In Season 3 of Reacher, Reacher foils a kidnapping in Maine and joins a powerful family's operation, uncovering secrets, corrupt agents, and his past foe Quinn.",
+                "tags": [
+                    "2025",
+                    "4 Seasons",
+                    "A",
+                    "Action"
+                ],
+                "ott": "pv",
+                "bgimg": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg"
+            },
+            {
+                "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/d818604622d7e30eab5093cf56c549ea02b1abf4635f198105016813bbc6c24d._BR-6_AC_SX600_FMwebp_.png",
+                "title": "The Wheel of Time",
+                "description": "A young woman discovers that one of five villagers may be the reincarnation of the Dragon, a powerful figure destined to battle the Dark One.",
+                "tags": [
+                    "2021",
+                    "3 Seasons",
+                    "A",
+                    "Fantasy"
+                ],
+                "id": "0U3073DE9J38JXZ5WLZW5O8MH3",
+                "ott": "pv",
+                "bgimg": "https://image.tmdb.org/t/p/original/4ATaO8VZPo2EYpIzgWJoy24u1ZQ.jpg"
+            }
+        ]
+    }
+]
