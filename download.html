@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cinefy - Android OTT App</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: #0b0b0f;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .container {
+      width: 100%;
+      max-width: 900px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+    .description {
+      color: #aaa;
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+    .download {
+      display: inline-block;
+      background: #e50914;
+      color: white;
+      text-decoration: none;
+      padding: 14px 28px;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 40px;
+    }
+    .download:hover {
+      background: #f6121d;
+    }
+    .video-container {
+      width: 100%;
+      background: #15151c;
+      border-radius: 16px;
+      padding: 10px;
+      overflow: hidden;
+    }
+    video {
+      width: 100%;
+      display: block;
+      border-radius: 10px;
+    }
+    .footer {
+      margin-top: 30px;
+      color: #777;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+<h1>🎬 Cinefy</h1>
+<p class="description">
+  A modern Android OTT application built with React Native and TypeScript.
+</p>
+<a
+  class="download"
+  href="https://github.com/kowsik123/cinefy/releases/download/Android-APK/app-release.apk"
+>
+  📱 Download Android APK
+</a>
+<div class="video-container">
+  <video
+    controls
+    preload="metadata"
+    poster=""
+  >
+    <source
+      src="https://github.com/kowsik123/cinefy/releases/download/Android-APK/App-Working-Video-cinefy.mp4"
+      type="video/mp4"
+    />
+    Your browser does not support the video player.
+  </video>
+</div>
+<div class="footer">
+  Cinefy · React Native · Android
+</div>
+  </main>
+</body>
+</html>
