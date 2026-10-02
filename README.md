@@ -16,9 +16,7 @@ A modern **Android OTT streaming application** built with **React Native and Typ
 
 ---
 
-## 🎥 App Demo
-
-### Cinefy in action
+## 🎥 App Video Demo
 
 
 https://github.com/user-attachments/assets/413181f5-d67f-49ea-83f6-67b77894214f
