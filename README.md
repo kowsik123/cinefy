@@ -1,3 +1,5 @@
+
+
 # 🎬 Cinefy
 
 A modern **Android OTT streaming application** built with **React Native and TypeScript**, featuring a cinematic UI with glassmorphism-inspired components for browsing movies and TV series.
@@ -18,7 +20,9 @@ A modern **Android OTT streaming application** built with **React Native and Typ
 
 ### Cinefy in action
 
-<video src="https://github.com/kowsik123/cinefy/releases/download/Android-APK/App-Working-Video-cinefy.mp4" controls width="100%"></video>
+
+https://github.com/user-attachments/assets/413181f5-d67f-49ea-83f6-67b77894214f
+
 
 [▶️ Watch / Download the demo video](https://github.com/kowsik123/cinefy/releases/download/Android-APK/App-Working-Video-cinefy.mp4)
 
